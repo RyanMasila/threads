@@ -37,5 +37,8 @@
     "uploadthing": "^5.3.3",
     "yup": "^1.2.0",
     "zod": "^3.22.1"
+  },
+  "devDependencies": {
+    "encoding": "^0.1.13"
   }
 }
